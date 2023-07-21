@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarioLazokHU
-- 👀 I’m interested in javascript or react apps
-- 🌱 I’m currently learning react
+- 👀 I’m interested in javascript frontend & backend apps
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: lazokmarios7@gmial.com
 
